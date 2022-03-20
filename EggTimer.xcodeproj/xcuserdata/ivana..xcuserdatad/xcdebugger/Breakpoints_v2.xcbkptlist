@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3CC1C146-3308-49E2-97C6-C449CC678233"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF5C75D2-4BFA-48A7-B24D-20EC7149E885"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EggTimer/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BF5C75D2-4BFA-48A7-B24D-20EC7149E885 - df681caf27e1a053"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EggTimer.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; EggTimer.ViewController"
+                  moduleName = "EggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivana./Documents/Documents%20-%20Boko/Programs/EggTimer-iOS13/EggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "BF5C75D2-4BFA-48A7-B24D-20EC7149E885 - 113d69ceab5ac3fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EggTimer.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; EggTimer.ViewController"
+                  moduleName = "EggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivana./Documents/Documents%20-%20Boko/Programs/EggTimer-iOS13/EggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "BF5C75D2-4BFA-48A7-B24D-20EC7149E885 - 28a51c0c468bab18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EggTimer.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;EggTimer.ViewController&gt;"
+                  moduleName = "EggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivana./Documents/Documents%20-%20Boko/Programs/EggTimer-iOS13/EggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "BF5C75D2-4BFA-48A7-B24D-20EC7149E885 - 5a8864f94d10ff04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EggTimer.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;EggTimer.ViewController&gt;"
+                  moduleName = "EggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivana./Documents/Documents%20-%20Boko/Programs/EggTimer-iOS13/EggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "BF5C75D2-4BFA-48A7-B24D-20EC7149E885 - 155eb8ab86b0375c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EggTimer.ViewController.__deallocating_deinit"
+                  moduleName = "EggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ivana./Documents/Documents%20-%20Boko/Programs/EggTimer-iOS13/EggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
